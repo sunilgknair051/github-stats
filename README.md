@@ -59,7 +59,7 @@ anyone may be able to see the name of one or more private repositories.
 5. Commit a small change to the repo (for example remove a newline from the end
    of the README) to force it to regenerate the stats images.
 6. Check out the images that have been created in the `generated` folder.
-5. Star this repo if you like it!
+
 
 
 # Related Projects
